@@ -23,3 +23,7 @@
 var a  =  2;
 console.log(a);
 ```
+
+这是我第一次使用GitHub中的README
+
+VsCode里的markdown预览非常牛B
