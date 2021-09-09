@@ -30,4 +30,3 @@ VsCode里的markdown预览非常牛B
 
 我的网站是[刘铭宇](https://www.google.com)
 
-我的图片是[刘铭宇](Liu.jpg)
